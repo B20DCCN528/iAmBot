@@ -1,0 +1,6 @@
+Link tài liệu và các nguồn tham khảo:
++ https://pypi.org/project/discord.py/
++ https://www.youtube.com/playlist?list=PLIu2imXNCAquUtvzlCk_FalRnViAilvXZ
++https://www.youtube.com/watch?v=dRHUW_KnHLs
++ https://www.pragnakalp.com/create-discord-bot-using-python-tutorial-with-examples/
++ https://realpython.com/how-to-make-a-discord-bot-python/
